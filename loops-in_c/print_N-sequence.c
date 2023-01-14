@@ -4,7 +4,7 @@
  *
  * C program to print N sequency
  *
- * eg 1, 2, 3, 4, 5, 6, 7, 8,9 
+ * eg 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 
  */
 
  int main(void)
@@ -18,7 +18,7 @@
 
 	while(i <= n)
 	{
-		printf("%d ,", i);
+		printf(" %d ,", i);
 		i++;
 	}
 	
